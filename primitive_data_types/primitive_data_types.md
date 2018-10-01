@@ -222,8 +222,8 @@ Hopefully these are self explanatory. Use them if you need them in your code. Th
 \n #=> Newline. You'll use this one.
 \s #=> Space
 \t #=> Tab
-\" #=> Double Quote
-\' #=> Single Quote
+\"" #=> Double Quote
+\'' #=> Single Quote
 ```
 The best thing to do is play around with them in a Repl.
 
