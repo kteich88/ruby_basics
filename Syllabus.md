@@ -5,12 +5,12 @@
 When a student finishes this course they should:
 * Know the basics of programming and how to solve problems programatically
 * Be competent with Ruby as a language and specific features to it ie enumerables
-* Have a exellent grasp of OOP and testing
-* Know about Files and serialisation and how to work with them
+* Have a excellent grasp of OOP and testing
+* Know about Files and serialization and how to work with them
 * Know how to model software with OOP and know the best practices with general software and OOP design
 
 ---
-# Propsed Syllabus
+# Proposed Syllabus
 
 ## Section: Programming Fundamentals
 
@@ -35,8 +35,8 @@ When a student finishes this course they should:
 * Lesson: Debugging Techniques
     - Some techniques for debugging
 * Projects
-    - 4 or 5 projects to practice the fundementals
-    
+    - 4 or 5 projects to practice the fundamentals
+
 ## Section: Basics of OOP
 
 * Lesson: Why OOP?
@@ -72,7 +72,7 @@ When a student finishes this course they should:
 * Projects
     - 1 or 2 projects the user can practice testing on
 
-## Section: Files and Serialisation
+## Section: Files and Serialization
 
 * Lesson: Files basics
     - The basics of using files
